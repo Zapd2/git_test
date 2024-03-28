@@ -1,1 +1,3 @@
 Testing git and github!
+
+Now testing my VScode terminal.
